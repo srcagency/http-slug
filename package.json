@@ -1,0 +1,26 @@
+{
+	"name": "http-slug",
+	"version": "1.0.0",
+	"description": "Create slugs for use in URLs",
+	"main": "index.js",
+	"keywords": [
+		"slug"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/srcagency/http-slug.git"
+	},
+	"author": {
+		"name": "Thomas Jensen",
+		"email": "thomas@src.agency",
+		"url": "http://src.agency"
+	},
+	"devDependencies": {
+		"tape": "^3.0.0"
+	},
+	"scripts": {
+		"test": "node test"
+	},
+	"readmeFilename": "README.md",
+	"license": "MIT"
+}
